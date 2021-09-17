@@ -5,7 +5,7 @@ import { FaFacebookSquare, FaInstagram, FaLinkedinIn, FaTwitter } from 'react-ic
 
 const Footer = () => {
     return (
-        <footer>
+        <footer class="container-fluid temp">
             <div class="footer-container">
                 <div class="d-md-flex d-sm-flex d-lg-flex d-lg-row flex-md-row flex-sm-column text-center justify-content-center">
                     <div class="p-3 text-style">Lorem Ipsum</div>

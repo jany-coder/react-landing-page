@@ -26,7 +26,7 @@ const Testimonial = () => {
     }
 
     return (
-        <section class="container-fluid testimonial">
+        <section class="container-fluid testimonial temp">
             <h2>Testimonial</h2>
            
                 <OwlCarousel className="owl-div owl-theme" item={1}
@@ -36,7 +36,6 @@ const Testimonial = () => {
                     nav={true}
                     dot={true}
                     marginLeft={10}
-                    autoplay={true}
 
 
                 >

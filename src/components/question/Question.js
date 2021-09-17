@@ -8,7 +8,7 @@ import { FaWhatsapp } from 'react-icons/fa';
 
 const Question = () => {
     return (
-        <section class="container-fluid">
+        <section class="container-fluid temp">
             <div className="container question">
                 <div className="row gx-5">
                     <div className="col-md-1"></div>

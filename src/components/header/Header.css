@@ -24,11 +24,11 @@
 .header-img img {
     width: 100%;
     padding: 150px 0;
-    margin-right: 100px;
     
 }
 
 .header-section {
+    
     background: linear-gradient(#29346F, #11184F);
     position: relative;
     
@@ -39,7 +39,7 @@
 }
 
 .header-container {
-    width: 85%;
+    max-width: 85%;
     margin: 0 auto;
 }
 

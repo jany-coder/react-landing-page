@@ -18,11 +18,11 @@ const useStyles = makeStyles((theme) => ({
             backgroundColor: '#DCDCDC'
         },
         [theme.breakpoints.up('xs')]: {
-            right: '50%',
+            right: '5%',
             backgroundColor: 'rgb(220,220,220,0.7)',
         },
         [theme.breakpoints.up('lg')]: {
-            right: '50%',
+            right: '6.5%',
         },
     }
 })
@@ -58,7 +58,7 @@ const Scroll = ({
     })
 
     return (
-        <div>
+        <div class="container-fluid">
             {show &&
                 <IconButton onClick={handleClick} className={classes.toTop} aria-label="to top" component="span">
                     <ExpandLessIcon />
