@@ -1,0 +1,38 @@
+footer {
+    background-color: #323751;
+    color: #fff;
+}
+
+.text-style {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.line{
+    width: 90%;
+    border-bottom: 1px solid #fff;
+ }
+
+ .footer-logo img {
+     width: 100px;
+     height: 100px;
+     display: block;
+     margin-top: 50px;
+ }
+
+.footer-container {
+    padding: 10px 0 40px 0;
+}
+
+ .icon-footer {
+     font-size: 25px;
+     padding: 45px 20px;
+ }
+
+
+
+ .footer-bottom-text p {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+ }

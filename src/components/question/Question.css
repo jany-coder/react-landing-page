@@ -1,0 +1,27 @@
+.question {
+    padding-top: 215px;
+    padding-bottom: 100px;
+}
+
+.question-div {
+    padding-top: 64px;
+}
+
+.question-icon {
+    font-size: 40px;
+    color: #3082B5;
+}
+
+.question-text p {
+    padding: 15px 0;
+}
+
+.icon-div {
+    padding: 0 33px;
+}
+
+.question-text h2{
+    font-size:36px;
+    font-weight: 700;
+    color: #323751;
+}

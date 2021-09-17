@@ -1,0 +1,23 @@
+.navbar-brand img {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-nav .nav-text {
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 72px;
+    color: #fff!important;
+    line-height: 88px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.nav-text:hover {
+    color: rgb(184, 184, 184)!important;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

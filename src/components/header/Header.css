@@ -1,0 +1,45 @@
+.btn-contact {
+    background-color:#59BB9F;
+    border: none;
+    padding: 10px 30px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 22px;
+    border-radius: 45px;
+}
+
+.btn-contact:hover {
+    background-color:#fff;
+    color:#59BB9F;
+    border: 2px solid #59BB9F;
+}
+
+.header-p p {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #fff;
+}
+
+.header-img img {
+    width: 100%;
+    padding: 150px 0;
+    margin-right: 100px;
+    
+}
+
+.header-section {
+    background: linear-gradient(#29346F, #11184F);
+    position: relative;
+    
+}
+
+.header-left {
+    padding: 200px 0;
+}
+
+.header-container {
+    width: 85%;
+    margin: 0 auto;
+}
+

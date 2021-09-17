@@ -1,0 +1,26 @@
+.feature-text p {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #929292;
+}
+
+.feature {
+    padding: 89px 89px;
+
+}
+
+.feature-div {
+    margin-top: 154px!important;
+}
+
+.feature-text h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #323751;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.feature-img img {
+    width: 100%;
+}
